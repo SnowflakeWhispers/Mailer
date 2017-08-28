@@ -1,4 +1,4 @@
-# Mailter
+# Mailer
 
 Simple commandline utility for sending email written in C#
 
