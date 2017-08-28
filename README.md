@@ -11,7 +11,7 @@ $> mailer.exe -help
 ## Sending emal
 
 ```bash
-$> mailer.exe -to "my@email.domain" -from "recipient@email.domain" -subject "Hello World!" -body "Hello World message" -user "my@email.domain" -password "pa$$word" -server "smtp.mail.server" -port 25
+$> mailer.exe -to "recipient@email.domain" -from "my@email.domain" -subject "Hello World!" -body "Hello World message" -user "my@email.domain" -password "pa$$word" -server "smtp.mail.server" -port 25
 ```
 
 ## Credits
@@ -22,5 +22,5 @@ This application using [Command Line Parser](http://cmdline.codeplex.com)
 
 ## License
 
-This application GNU GPLv3
-Command Line Parser GNU GPLv2
+* This application GNU GPLv3
+* Command Line Parser GNU GPLv2
